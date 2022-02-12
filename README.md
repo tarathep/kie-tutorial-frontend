@@ -1,3 +1,4 @@
 # kie-tutorial-frontend
 
-messsage 1
+message 1
+message 2
